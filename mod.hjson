@@ -1,0 +1,6 @@
+name: "ProcessorMod2"
+displayName: "[yellow]ProcessorMod2" //what displays in the mod selection menu
+author: "gigfighter"
+description: "[gold]Добавит в игру электронику!"
+version: "2.9.3 OC V6 support"
+minGameVersion: "106"
